@@ -4,6 +4,10 @@
 This project is a Sudoku Solver class created in Python to solve Sudoku puzzle arrays.
 The solver uses Constraint Propagation, Depth-First-Search (DFS), and backtracking to return a solved Sudoku array.
 
+## Purpose
+The motivation behind this project was to implement and practice the Constraint Propagation Algorithm along with Depth-First-Search and backtracking
+to solve Sudoku puzzles. This project was submitted as part of the required coursework for the "Artifical Intelligence" module at the University of Bath.
+
 ## Project Structure
 - `SudokuSolver.py`: Contains the `sudoku_solver` function which solves the Sudoku puzzles.
 
